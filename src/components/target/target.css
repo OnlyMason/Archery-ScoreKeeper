@@ -1,0 +1,26 @@
+.targetContainer {
+    height:auto;
+    width:100%;
+    margin:2%;
+}
+
+circle:hover {
+    fill: limegreen;
+    cursor:crosshair;
+}
+
+@media (min-width:800px) {
+    .targetContainer {
+        height:45.5%;
+        width:45.5%;
+    }
+}
+
+@media (min-width:667px) {
+    .targetContainer {
+        height:45.5%;
+        width:45.5%;
+    }
+}
+
+

@@ -1,0 +1,15 @@
+.scoreBoardContainer {
+    text-align: center;
+    width:50%;
+}
+
+.resetButton {
+    width:100px;
+    margin:auto;
+}
+
+@media (max-width:800px) {
+    .scoreBoardContainer {
+        width:100%;
+    }
+}

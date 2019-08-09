@@ -1,0 +1,10 @@
+.summaryContainer{
+    text-align:center;
+    width:50%;
+}
+
+@media (max-width:800px) {
+    .summaryContainer {
+        width:100%;
+    }
+}
